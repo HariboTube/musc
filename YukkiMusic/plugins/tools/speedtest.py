@@ -10,7 +10,6 @@
 import asyncio
 import os
 
-import speedtest
 import wget
 from pyrogram import filters
 
